@@ -1,0 +1,71 @@
+{
+    "language": "English",
+    "@language": {
+        "description": "The current Language"
+    },
+    "username": "Enter your Name",
+    "@username":{
+        "description": "The hint for the username field"
+    },
+    "email":"Email",
+    "@email":{
+        "description": "The hint for the email field"
+    },
+    "password":"Password",
+    "@password":{
+        "description": "The hint for the password field"
+    },
+    "create_account":"Create Account",
+    "@create_account":{
+        "description":"the signup page"
+    },
+    "register_decs":"Please fill your information below",
+    "@register_decs":{
+        "description":"to fill the signUp information"
+    },
+    "login": "Login",
+    "@login":{
+        "description":"the login page and button"
+    },
+    "accountButton":"Create Your Account",
+    "@accountButton":{
+        "description":"the signup button"
+    },
+    "login_desc":"Welcome back",
+    "@login_desc":{
+        "description": "the login descriptipn"
+    },
+    "location":"Our Location",
+    "@location":{
+        "description":"the field location"
+    },
+    "facilites":"Key Facilities",
+    "@facilites":{
+        "description":"the Key Facilities"
+    },
+    "parking":"Parking",
+    "@parking":{
+        "description":"the car parking"
+    },
+    "showers":"Showers",
+    "@showers":{
+        "description":"the shower room"
+    },
+    "locker":"Locker Room",
+    "@locker":{
+        "description":"the Locker Room"
+    },
+    "cafeteria":"Cafeteria",
+    "@cafeteria":{
+        "description":"the Cafeteria"
+    },
+    "more":"More",
+    "@more":{
+        "description":"show more"
+    },
+    "less":"Show less",
+    "@less":{
+        "description":"show less"
+    }
+
+}
